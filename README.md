@@ -11,4 +11,4 @@ https://hub.docker.com/repository/docker/shuazi233/projectzomboideggs
 |-------------|---------|
 | Steam       | 8766    |
 | Default     | 16261   |
-| UDPPort     | 16262   |
+| UDP         | 16262   |
